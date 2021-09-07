@@ -10,6 +10,7 @@ ___
 
 ### `apisec-username`
 **Required** The APIsec username with which the scans will be executed.
+
 **Note**: You can create a new user on APIsec with 'ROLE_USER' privilege.
 |Default value|`""`|
 --- | ---
